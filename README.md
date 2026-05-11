@@ -1,4 +1,4 @@
-# 123pan-go-sdk（非官方）
+# 123云盘-Go-SDK
 
 基于 123 云盘开放平台 OpenAPI 文档封装的 Go SDK。
 
